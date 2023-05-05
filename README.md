@@ -1,9 +1,9 @@
 <h2 align="center">
-    ──「 ᴀɴᴏɴ ダ ᴍᴜsɪᴄ 」──
+    ──「 𓆩᪵𝐓ᴏxɪ𝐂🌿⃤𝐌𝐔𝐒𝐈𝐂𓆪̥乛[🇮🇳]™ 」──
 </h2>
 
 <p align="center">
-  <img src="https://telegra.ph/file/56d1760224589ee370186.jpg">
+  <img src="https://graph.org/file/1130f393e046f9f2280c6.jpg">
 </p>
 
 <p align="center">
@@ -15,7 +15,7 @@
 </p>
 
 <p align="center">
-  <img src="https://telegra.ph/file/36be820a8775f0bfc773e.jpg">
+  <img src="https://graph.org/file/76cc61ea4e8d64b88cad4.jpg">
 </p>
 
 <h3 align="center">
