@@ -21,7 +21,7 @@ OWNER_ID = list(map(int, getenv("OWNER_ID", "5023678003").split()))
 HEROKU_API_KEY = getenv("HEROKU_API_KEY", None)
 HEROKU_APP_NAME = getenv("HEROKU_APP_NAME", None)
 
-UPSTREAM_REPO = getenv("UPSTREAM_REPO", "https://github.com/TOXICOP7755/TOXICMUSICXD")
+UPSTREAM_REPO = getenv("UPSTREAM_REPO", "https://graph.org/file/b4d2c0fffe70b1c560b72.jpg")
 UPSTREAM_BRANCH = getenv("UPSTREAM_BRANCH", "master")
 GIT_TOKEN = getenv("GIT_TOKEN", None)
 
