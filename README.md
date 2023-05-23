@@ -1,9 +1,9 @@
 <h2 align="center">
-    ──「 𓆩𝐂𝐤 𝐑𝐨𝐁𝐨 [🇮🇳] 」──
+    ──「 𓆩᪵𝐓ᴏxɪ𝐂🌿⃤𝐌𝐔𝐒𝐈𝐂𓆪̥乛[🇮🇳]™ 」──
 </h2>
 
 <p align="center">
-  <img src="https://graph.org/file/45476eab370279e07150f.jpg">
+  <img src="https://graph.org/file/1130f393e046f9f2280c6.jpg">
 </p>
 
 <p align="center">
@@ -15,8 +15,9 @@
 </p>
 
 <p align="center">
-  <img src="https://graph.org/file/45476eab370279e07150f.jpg">
+  <img src="https://graph.org/file/76cc61ea4e8d64b88cad4.jpg">
 </p>
+
 
 <h3 align="center">
     ─「 ᴅᴇᴩʟᴏʏ ᴏɴ ʜᴇʀᴏᴋᴜ 」─
