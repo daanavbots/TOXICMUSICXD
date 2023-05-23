@@ -1,9 +1,9 @@
 <h2 align="center">
-    ──「 𓆩᪵𝐓ᴏxɪ𝐂🌿⃤𝐌𝐔𝐒𝐈𝐂𓆪̥乛[🇮🇳]™ 」──
+    ──「 𓆩𝐂𝐤 𝐑𝐨𝐁𝐨 [🇮🇳] 」──
 </h2>
 
 <p align="center">
-  <img src="https://graph.org/file/1130f393e046f9f2280c6.jpg">
+  <img src="https://graph.org/file/45476eab370279e07150f.jpg">
 </p>
 
 <p align="center">
@@ -15,14 +15,14 @@
 </p>
 
 <p align="center">
-  <img src="https://graph.org/file/76cc61ea4e8d64b88cad4.jpg">
+  <img src="https://graph.org/file/45476eab370279e07150f.jpg">
 </p>
 
 <h3 align="center">
     ─「 ᴅᴇᴩʟᴏʏ ᴏɴ ʜᴇʀᴏᴋᴜ 」─
 </h3>
 
-<p align="center"><a href="https://dashboard.heroku.com/new?template=https://github.com/TOXICOP7755/TOXICMUSICXD"> <img src="https://img.shields.io/badge/Deploy%20On%20Heroku-black?style=for-the-badge&logo=heroku" width="220" height="38.45"/></a></p>
+<p align="center"><a href="https://dashboard.heroku.com/new?template=https://github.com/TOXICOP7755/CKMUSICBOT"> <img src="https://img.shields.io/badge/Deploy%20On%20Heroku-black?style=for-the-badge&logo=heroku" width="220" height="38.45"/></a></p>
 
 
 
@@ -31,11 +31,11 @@
 </h3>
 
 <p align="center">
-<a href="https://telegram.me/NIGHT_CLUB_XD"><img src="https://img.shields.io/badge/-Support%20Group-blue.svg?style=for-the-badge&logo=Telegram"></a>
+<a href="https://telegram.me/ck_support"><img src="https://img.shields.io/badge/-Support%20Group-blue.svg?style=for-the-badge&logo=Telegram"></a>
 </p>
 
 <p align="center">
-<a href="https://telegram.me/KNOW_UR_JIJA"><img src="https://img.shields.io/badge/-Support%20Channel-blue.svg?style=for-the-badge&logo=Telegram"></a>
+<a href="https://telegram.me/ck_robot_status"><img src="https://img.shields.io/badge/-Support%20Channel-blue.svg?style=for-the-badge&logo=Telegram"></a>
 </p>
 
 <h3 align="center">
